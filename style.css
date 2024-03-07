@@ -1,0 +1,35 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    margin: 20px;
+    padding: 10px
+    ;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color:azure
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: beige;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif
+    border: 1px solid #333;
+   color: aliceblue;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    color: black;
+    transition: background-color 0.3s ease;
+    background-color: antiquewhite;
+    padding: 5px;
+    margin-bottom: 5px;
+}
